@@ -8,3 +8,5 @@ Download do aplicativo ACBR: http://www.projetoacbr.com.br/forum/files/file/379-
 
 Clique 2x no arquivo DBL_boletos para gerar a configuração do ACBR.
 
+Verifique a função MainWindow::imprime_boleto() para sintaxe do JSON
+
